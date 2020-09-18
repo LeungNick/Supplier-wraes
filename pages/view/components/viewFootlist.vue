@@ -6,7 +6,7 @@
 					<view class="iconfont icon-RectangleCopy24"></view>
 					<view>进仓</view>
 				</view>
-				<view>
+				<view @click="toCustomer">
 					<view class="iconfont icon-bussiness-man"></view>
 					<view>客服</view>
 				</view>
@@ -16,7 +16,7 @@
 				</view>
 			</view>
 			<view class="view-foot-list-btn-2">
-				<text class="view-foot-list-btn-share">立即分享</text>
+				<text class="view-foot-list-btn-share" @click="toForword">立即分享</text>
 				<text class="view-foot-list-btn-buy" @click="showpopup">立即采购</text>
 			</view>
 		</view>
@@ -38,11 +38,21 @@
 				this.$refs.popup.open()
 			},
 			gotoBusinessShop () {
-				console.log('1231')
 				uni.navigateTo({
 					url:'/pages/view/page/businessShop'
 				})
+			},
+			toCustomer () {
+				uni.navigateTo({
+					url:"/pages/me/pages/myCustomer"
+				})
+			},
+			toForword () {
+				uni.navigateTo({
+					url:"/pages/view/page/forword"
+				})
 			}
+				
 		}
 	}
 </script>

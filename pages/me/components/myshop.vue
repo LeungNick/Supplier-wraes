@@ -2,7 +2,7 @@
 	<view class="mehomeOrder-wrap">
 		<view class="mehomeOrder-top">
 			<text>我的小店</text>
-			<view class="mehomeOrder-all">
+			<view class="mehomeOrder-all" @click="toMyshop">
 				<text>进店</text>
 				<text class="iconfont icon-xiangyoujiantou"></text>
 			</view>
@@ -33,6 +33,13 @@
 		data () {
 			return {
 				order:'xxx'
+			}
+		},
+		methods:{
+			toMyshop () {
+				uni.navigateTo({
+					url:"/pages/myshop/myshop"
+				})
 			}
 		}
 	}
