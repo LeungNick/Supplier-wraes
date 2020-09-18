@@ -1,0 +1,1 @@
+<uni-list vue-id="a686ec68-1" bind:__l="__l" vue-slots="{{['default']}}"><uni-list-item vue-id="{{('a686ec68-2')+','+('a686ec68-1')}}" title="已转发海报" note bind:__l="__l"></uni-list-item><uni-list-item vue-id="{{('a686ec68-3')+','+('a686ec68-1')}}" title="分享海报" note bind:__l="__l"></uni-list-item></uni-list>

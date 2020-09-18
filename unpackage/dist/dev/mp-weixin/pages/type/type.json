@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "select-cpn": "/pages/type/components/selectCPN",
+    "search-cpn": "/vue-components/searchCpn",
+    "goods-cpn": "/pages/type/components/goodsCPN"
+  }
+}

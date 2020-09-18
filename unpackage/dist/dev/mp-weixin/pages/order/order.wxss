@@ -1,0 +1,6 @@
+
+.order-wrap{
+	padding-top: 20rpx;
+	background: #F1F1F1;
+}
+

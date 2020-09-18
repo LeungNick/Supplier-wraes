@@ -1,0 +1,12 @@
+
+.myad-wrap.data-v-ce97e92c{
+	width: 94%;
+	margin-left: 3%;
+	margin-bottom: 20rpx;
+	height: 200rpx;
+}
+.myad-wrap ._img.data-v-ce97e92c{
+	width: 100%;
+	height: 100%;
+}
+

@@ -1,0 +1,32 @@
+
+.scroll-Y.data-v-d6ba0248 {
+	height: 60rpx;
+}
+.scroll-view_H.data-v-d6ba0248 {
+	position: relative;
+	white-space: nowrap;
+	width: 100%;
+}
+.scroll-view-item_H.data-v-d6ba0248 {
+	display: inline-block;
+	width: 30%;
+	height: 60rpx;
+	line-height:60rpx;
+	text-align: center;
+	font-size: 30rpx;
+	box-sizing: border-box;
+}
+.active-item.data-v-d6ba0248{
+	color: #ff465c;
+	border-bottom: 4rpx solid #ff465c;
+	box-sizing: border-box;
+}
+.hk.data-v-d6ba0248{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	display: inline-block;
+	width: 5%;
+	height: 5rpx;
+}
+

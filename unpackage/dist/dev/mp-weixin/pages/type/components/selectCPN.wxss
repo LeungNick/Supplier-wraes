@@ -1,0 +1,24 @@
+
+.select-ul.data-v-49557c58{
+	position: fixed;
+	width: 26%;
+	display: inline-block;
+	background: #EEEEEE;
+	text-align: center;
+	color: #646566;
+	list-style:none;
+	padding: 0;
+	margin: 0;
+}
+.select-ul ._li.data-v-49557c58{
+	height: 80rpx;
+	font-size: 28rpx;
+	line-height: 80rpx;
+}
+.activeNow.data-v-49557c58{
+	background: #fff;
+	box-sizing: border-box;
+	border-left: 4px solid #ff465c;
+	font-weight: bold;
+}
+

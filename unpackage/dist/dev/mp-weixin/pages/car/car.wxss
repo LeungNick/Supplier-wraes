@@ -1,0 +1,6 @@
+
+.car-wrap{
+	padding: 20rpx 20rpx;
+	background: #F1F1F1;
+}
+

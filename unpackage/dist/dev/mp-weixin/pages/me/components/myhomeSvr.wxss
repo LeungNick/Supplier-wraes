@@ -1,0 +1,50 @@
+
+.mehomeOrder-wrap.data-v-77144ad9{
+	background: #FFF;
+	border-radius: 20rpx;
+	box-sizing: border-box;
+	padding: 20rpx 20rpx;
+	width: 94%;
+	margin-left: 3%;
+	margin-top: 20rpx;
+	margin-bottom: 20rpx;
+}
+.mehomeOrder-top.data-v-77144ad9{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 24rpx;
+	color: #646566;
+	margin-bottom: 20rpx;
+}
+.mehomeOrder-list.data-v-77144ad9{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.mehomeOrder-lm.data-v-77144ad9{
+	text-align: center;
+	font-size: 24rpx;
+	color: #646566#;
+	padding: 10rpx 10rpx;
+	width: 120rpx;
+	text-align: center;
+}
+.icon-RectangleCopy14.data-v-77144ad9,.icon-Newuserzone.data-v-77144ad9,.icon-RectangleCopy12.data-v-77144ad9,.icon-RectangleCopy4.data-v-77144ad9,.icon-RectangleCopy2.data-v-77144ad9,.icon-bussiness-man.data-v-77144ad9,.icon-RectangleCopy17.data-v-77144ad9,.icon-RectangleCopy11.data-v-77144ad9 {
+	font-size: 60rpx;
+}
+.icon-xiangyoujiantou.data-v-77144ad9{
+	font-size: 20rpx;
+}
+
