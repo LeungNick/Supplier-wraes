@@ -1,11 +1,11 @@
 
-.view-repeat-wrap{
+.view-repeat-wrap.data-v-73060508{
 	padding: 20rpx 30rpx;
 	padding-bottom: 40rpx;
 	box-sizing: border-box;
 	border-bottom: 14rpx solid #F1F1F1;
 }
-.view-repeat-title {
+.view-repeat-title.data-v-73060508 {
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: flex;
@@ -17,10 +17,10 @@
 	        align-items: center;
 	font-size: 30rpx;
 }
-.view-repeat-more{
+.view-repeat-more.data-v-73060508{
 	font-size: 24rpx;
 }
-.view-repeat-img{
+.view-repeat-img.data-v-73060508{
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: flex;
@@ -30,11 +30,11 @@
 	height: 200rpx;
 	margin-top: 20rpx;
 }
-.view-repeat-img image{
+.view-repeat-img image.data-v-73060508{
 	width: 200rpx;
 	height: 200rpx;
 }
-.view-repeat{
+.view-repeat.data-v-73060508{
 	color: #FF465C;
 	margin-top: 20rpx;
 	font-size: 28rpx;

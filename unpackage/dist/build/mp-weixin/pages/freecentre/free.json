@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "免费中心",
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#F1F1F1",
+  "usingComponents": {
+    "swipercom": "/pages/index/components/swiper",
+    "free-goods": "/pages/freecentre/components/freeGoods"
+  }
+}

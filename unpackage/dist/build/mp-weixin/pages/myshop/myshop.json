@@ -1,0 +1,12 @@
+{
+  "navigationBarBackgroundColor": "#ff465c",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的小店",
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#F1F1F1",
+  "usingComponents": {
+    "my-shop-top": "/pages/myshop/components/myshopTop",
+    "my-shop-order": "/pages/me/components/myhomeOrder",
+    "my-shop-svr": "/pages/me/components/myhomeSvr"
+  }
+}

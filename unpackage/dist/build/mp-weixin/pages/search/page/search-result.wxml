@@ -1,0 +1,1 @@
+<view class="search-result-wrap data-v-a79aa3de"><search-input vue-id="3f497b86-1" class="data-v-a79aa3de" bind:__l="__l"></search-input><search-result-list vue-id="3f497b86-2" class="data-v-a79aa3de" bind:__l="__l"></search-result-list></view>

@@ -1,0 +1,1 @@
+<view class="my-shop-wrap data-v-7be180a2"><my-shop-top vue-id="34af8380-1" class="data-v-7be180a2" bind:__l="__l"></my-shop-top><my-shop-order vue-id="34af8380-2" class="data-v-7be180a2" bind:__l="__l"></my-shop-order><my-shop-svr vue-id="34af8380-3" class="data-v-7be180a2" bind:__l="__l"></my-shop-svr></view>

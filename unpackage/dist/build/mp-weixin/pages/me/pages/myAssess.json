@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的评价",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "assess-list": "/pages/me/components/assesslist"
+  }
+}

@@ -11,7 +11,7 @@
 					<text>采货商</text>
 				</view>
 			</view>
-			<view class="mehomeHeader-myteacher">我的导师</view>
+			<view class="mehomeHeader-myteacher" @click="toMyteacher">我的导师</view>
 		</view>
 	</view>
 </template>
@@ -21,6 +21,13 @@
 		data () {
 			return {
 				list:"131313133"
+			}
+		},
+		methods: {
+			toMyteacher () {
+				uni.navigateTo({
+					url:"/pages/me/pages/myTeacher"
+				})
 			}
 		}
 	}

@@ -1,0 +1,1 @@
+<view class="forword-goods-wrap"><view>{{''+goods.name+''}}<text>修改标题</text></view><view hidden="{{!(basePrize)}}">零售价：<text>{{"￥"+goods.prize+"元"}}</text></view><view hidden="{{!(basePrize)}}">秒杀价<text>{{"￥"+basePrize+"元"}}</text></view><view class="forword-goods-img"><image src="{{$root.m0}}" class="_img"></image></view><view>{{goods.des}}</view></view>

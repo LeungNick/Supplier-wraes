@@ -57,7 +57,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.unipop{
 		z-index: 999;
 	}

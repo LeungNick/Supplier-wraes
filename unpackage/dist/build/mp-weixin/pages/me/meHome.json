@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "mehome-header": "/pages/me/components/myhomeHeader",
+    "myhome-order": "/pages/me/components/myhomeOrder",
+    "myhome-other": "/pages/me/components/myhomeOther",
+    "myhome-srv": "/pages/me/components/myhomeSvr",
+    "my-shop": "/pages/me/components/myshop",
+    "my-ad": "/pages/me/components/myad"
+  }
+}

@@ -11,7 +11,19 @@
     "pages/me/pages/myAddress",
     "pages/me/pages/myLove",
     "pages/me/pages/myCustomer",
-    "pages/me/pages/mySuggestion"
+    "pages/me/pages/mySuggestion",
+    "pages/me/pages/myBag",
+    "pages/me/pages/aboutUs",
+    "pages/freecentre/free",
+    "pages/me/pages/setUp",
+    "pages/view/page/forword",
+    "pages/view/page/businessShop",
+    "pages/search/search",
+    "pages/search/page/search-result",
+    "pages/myshop/myshop",
+    "pages/login/login",
+    "pages/login/reg",
+    "pages/me/pages/myTeacher"
   ],
   "subPackages": [],
   "window": {
@@ -52,6 +64,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap24.json"
+  "usingComponents": {}
 }

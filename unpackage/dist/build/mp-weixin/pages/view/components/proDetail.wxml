@@ -1,0 +1,1 @@
+<view class="prodetail-wrap"><block wx:for="{{imgList}}" wx:for-item="item" wx:for-index="__i0__"><image src="{{item}}" class="_img"></image></block></view>

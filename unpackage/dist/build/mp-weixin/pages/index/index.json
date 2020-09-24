@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "特惠采购",
+  "usingComponents": {
+    "swipercom": "/pages/index/components/swiper",
+    "active-cpn": "/pages/index/components/activeCpn",
+    "search-cpn": "/vue-components/searchCpn",
+    "select-scroll": "/pages/index/components/selectScroll",
+    "good-cpn": "/pages/index/components/goosCpn",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

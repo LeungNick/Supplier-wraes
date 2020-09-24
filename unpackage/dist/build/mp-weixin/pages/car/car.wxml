@@ -1,0 +1,1 @@
+<view class="car-wrap"><car-list vue-id="2964de54-1" bind:__l="__l"></car-list></view>

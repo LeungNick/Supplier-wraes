@@ -1,0 +1,82 @@
+
+.login-wrap.data-v-b237504c{
+	box-sizing: border-box;
+	padding-top: 20rpx;
+	font-size: 24rpx;
+}
+.login-img.data-v-b237504c{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.login-img ._img.data-v-b237504c {
+	width: 20%;
+}
+.login-cent.data-v-b237504c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.login-title.data-v-b237504c{
+	width: 100%;
+	margin-top: 100rpx;
+	margin-bottom: 20rpx;
+	color: #666666;
+}
+.login-btn.data-v-b237504c{
+	width: 80%;
+	background: #FF465C;
+	padding: 20rpx 20rpx;
+	text-align: center;
+	color: #fff;
+	border-radius: 20rpx;
+	margin-top: 100rpx;
+}
+.login-cent view.data-v-b237504c:nth-child(1){
+	text-align: center;
+}
+.login-num.data-v-b237504c,.login-code-wrap.data-v-b237504c{
+	width: 86%;
+	box-sizing: border-box;
+	background: #F1F1F1;
+	border-radius: 30rpx;
+	font-size: 30rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	padding: 0rpx 40rpx;
+	margin-bottom: 40rpx;
+	position: relative;
+}
+.get-code.data-v-b237504c{
+	color: #FF465C;
+	height: 80rpx;
+	line-height: 80rpx;
+	position: absolute;
+	right: 4%;
+	top: 0;
+	z-index: 1;
+}
+.login-code.data-v-b237504c{
+	width: 100%;
+	box-sizing: border-box;
+	background: #F1F1F1;
+	font-size: 30rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+}
+.login-reg.data-v-b237504c{
+	width: 100%;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 40rpx;
+}
+

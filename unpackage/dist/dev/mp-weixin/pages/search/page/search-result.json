@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "搜索结果",
+  "enablePullDownRefresh": true,
+  "backgroundColor": "#F1F1F1",
+  "usingComponents": {
+    "search-input": "/pages/search/components/search-input",
+    "search-result-list": "/pages/search/components/search-result-list"
+  }
+}

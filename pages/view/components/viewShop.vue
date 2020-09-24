@@ -54,7 +54,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.view-shop-wrap{
 		padding: 20rpx 30rpx;
 		padding-bottom: 30rpx;

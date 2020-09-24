@@ -1,0 +1,1 @@
+<view class="search-input-wrap data-v-1f8acce0"><view class="search-cont data-v-1f8acce0"><text class="iconfont icon-search_list data-v-1f8acce0"></text><input class="search data-v-1f8acce0" type="text" placeholder="请输入搜索商品的关键字"/><text data-event-opts="{{[['tap',[['toSearchResult',['$event']]]]]}}" class="search-btn data-v-1f8acce0" bindtap="__e">搜索</text></view></view>

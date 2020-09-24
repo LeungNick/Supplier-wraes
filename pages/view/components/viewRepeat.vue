@@ -28,7 +28,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.view-repeat-wrap{
 		padding: 20rpx 30rpx;
 		padding-bottom: 40rpx;

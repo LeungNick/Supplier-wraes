@@ -1,0 +1,1 @@
+<view class="search-type-wrap"><view class="search-type-title">热门搜索</view><view class="_ul"><block wx:for="{{typeList}}" wx:for-item="item" wx:for-index="__i0__"><view class="_li">{{item}}</view></block></view></view>

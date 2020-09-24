@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var carList = function carList() {__webpack_require__.e(/*! require.ensure | pages/car/components/carlist */ "pages/car/components/carlist").then((function () {return resolve(__webpack_require__(/*! ./components/carlist.vue */ 158));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var carList = function carList() {__webpack_require__.e(/*! require.ensure | pages/car/components/carlist */ "pages/car/components/carlist").then((function () {return resolve(__webpack_require__(/*! ./components/carlist.vue */ 252));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 

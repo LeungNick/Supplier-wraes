@@ -1,1 +1,1 @@
-<view class="search-wrap data-v-b1ac29d6"><view class="search-cont data-v-b1ac29d6"><test class="iconfont icon-search_list data-v-b1ac29d6" vue-id="3e13f891-1" bind:__l="__l"></test><input class="search data-v-b1ac29d6" type="text" value="请输入搜索商品的关键字"/></view></view>
+<view class="search-wrap data-v-b1ac29d6"><view data-event-opts="{{[['tap',[['toSearchpage',['$event']]]]]}}" class="search-cont data-v-b1ac29d6" bindtap="__e"><text class="iconfont icon-search_list data-v-b1ac29d6"></text><input class="search data-v-b1ac29d6" type="text" value="请输入搜索商品的关键字"/></view></view>

@@ -1,9 +1,9 @@
 <template>
 	<view>
 		<forword-title @clickhandleIdx="clickhandleIdx"></forword-title>
-		<forword-goods :goods='goodlists' :basePrize='basePrize' v-show="currenIdx == 0"></forword-goods>
-		<forword-foot @changeprize="changeprize" v-show="currenIdx == 0"></forword-foot>
-		<pro-detail v-show="currenIdx == 1" :imgList="imgList"></pro-detail>
+		<forword-goods :goods='goodlists' :basePrize='basePrize' v-if="currenIdx == 0"></forword-goods>
+		<forword-foot @changeprize="changeprize" v-if="currenIdx == 0"></forword-foot>
+		<pro-detail v-else="currenIdx == 1" :imgList="imgList"></pro-detail>
 		<uni-popup ref="popup" type="dialog">
 		    <uni-popup-dialog type="input" 
 			message="成功消息"  
@@ -35,7 +35,7 @@
 				},
 				basePrize:'',
 				currenIdx: 0,
-				imgList:['../static/image/pro.jpg', '../static/image/pro.jpg', '../static/image/pro.jpg', '../static/image/pro.jpg']
+				imgList:['../../../static/image/pro.jpg', '../../../static/image/pro.jpg']
 			}
 		},
 		mounted() {

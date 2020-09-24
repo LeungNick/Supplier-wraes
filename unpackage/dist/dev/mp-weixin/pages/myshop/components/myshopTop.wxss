@@ -1,0 +1,58 @@
+
+.my-shop-top-wrap.data-v-19e82104{
+	background: #FFFFFF;
+	border-radius: 40rpx;
+	width: 94%;
+	margin-left: 3%;
+	padding-bottom: 30rpx;
+	margin-bottom: 20rpx;
+}
+.my-shop-top-title.data-v-19e82104{
+	border-radius: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 24rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+	padding: 20rpx 40rpx;
+}
+.my-shop-top-name.data-v-19e82104{
+	width: 40%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.my-shop-top-name view view.data-v-19e82104:nth-child(1){
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.my-shop-top-data.data-v-19e82104{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+	font-size: 24rpx;
+}
+.my-shop-top-data view.data-v-19e82104{
+	text-align: center;
+}
+.my-shop-top-data view view.data-v-19e82104:nth-child(1){
+	color: #FF465C;
+	font-size: 42rpx;
+	margin-bottom: 6rpx;
+}
+

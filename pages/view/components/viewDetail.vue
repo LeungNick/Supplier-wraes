@@ -14,11 +14,10 @@
 		<view class="view-detail-img">
 			<view class="view-detail-title">商品详情</view>
 			<ul>
-				<li><img src="../../../static/image/pro.jpg"/></li>
-				<li><img src="../../../static/image/pro.jpg"/></li>
-				<li><img src="../../../static/image/pro.jpg"/></li>
-				<li><img src="../../../static/image/pro.jpg"/></li>
-				<li><img src="../../../static/image/pro.jpg"/></li>
+				<li><image src="../../../static/image/pro.jpg" style="width: 100%;" mode="widthFix"></image></li>
+				<li><image src="../../../static/image/pro.jpg" style="width: 100%;" mode="widthFix"></image></li>
+				<li><image src="../../../static/image/pro.jpg" style="width: 100%;" mode="widthFix"></image></li>
+				<li><image src="../../../static/image/pro.jpg" style="width: 100%;" mode="widthFix"></image></li>
 			</ul>
 		</view>
 	</view>
@@ -27,7 +26,7 @@
 <script>
 </script>
 
-<style>
+<style scoped>
 	ul{
 		margin: 0;
 		padding: 0;
@@ -39,11 +38,7 @@
 		box-sizing: border-box;
 		border-bottom: 14rpx solid #F1F1F1;
 	}
-	.view-detail view{
-		font-size: 30rpx;
-		width: 20%;
-		text-align: center;
-	}
+	
 	.view-detail ul{
 		font-size: 24rpx;
 		margin-top: 20rpx;
@@ -63,9 +58,5 @@
 		margin-left: 40%;
 		text-align: center;
 		border-bottom: 4rpx solid #FF465C;
-	}
-	.view-detail-img img{
-		width: 90%;
-		margin-left: 5%;
 	}
 </style>

@@ -237,6 +237,11 @@
 		padding: 0 20rpx;
 		box-sizing: border-box;
 	}
+	/* #ifdef MP-WEIXIN */
+	.carlist-order-bottom{
+		bottom: 0rpx;
+	}
+	/* #endif */
 	.submit-btn{
 		background: #FF465C;
 		border-radius: 40rpx;

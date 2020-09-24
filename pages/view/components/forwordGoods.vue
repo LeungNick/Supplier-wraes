@@ -33,7 +33,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.forword-goods-wrap{
 		width: 94%;
 		margin-left: 3%;

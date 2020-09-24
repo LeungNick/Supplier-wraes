@@ -1,0 +1,1 @@
+<view class="forword-title-wrap"><view class="forword-title-ul _ul"><block wx:for="{{titlelist}}" wx:for-item="item" wx:for-index="index"><view class="{{['_li',(index==currenIDX)?'activeIdx':'']}}" data-num="{{index}}" data-event-opts="{{[['tap',[['handleClick',['$event']]]]]}}" bindtap="__e">{{item}}</view></block></view></view>

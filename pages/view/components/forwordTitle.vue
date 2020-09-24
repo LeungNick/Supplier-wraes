@@ -16,7 +16,7 @@
 		},
 		methods:{
 			handleClick (e) {
-				// console.log(e.currentTarget.dataset.num)
+				console.log(e.currentTarget.dataset.num)
 				this.currenIDX = e.currentTarget.dataset.num
 				this.$emit('clickhandleIdx',this.currenIDX)
 			}
@@ -24,7 +24,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	ul{
 		list-style: none;
 		margin: 0;

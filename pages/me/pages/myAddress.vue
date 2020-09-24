@@ -42,6 +42,9 @@
 
 <style>
 	.myaddress-wrap{
+		margin-top: -100rpx;
+	}
+	.myaddress-wrap{
 		background: #F1F1F1;
 	}
 	.myaddress{

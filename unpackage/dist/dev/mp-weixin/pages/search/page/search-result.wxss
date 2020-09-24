@@ -1,0 +1,9 @@
+
+.search-result-wrap.data-v-e3249500{
+	padding: 20rpx 20rpx;
+	background: #F1F1F1;
+}
+.search-cont.data-v-e3249500{
+	background: #fff!important;
+}
+

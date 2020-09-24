@@ -1,0 +1,1 @@
+<view class="select-wrap data-v-07bb8862"><view class="select-ul _ul data-v-07bb8862"><block wx:for="{{listNum}}" wx:for-item="item" wx:for-index="index" wx:key="id"><view class="{{['_li data-v-07bb8862',(index==currenIdx)?'activeNow':'']}}" data-num="{{index}}" data-event-opts="{{[['tap',[['clickSelect',['$event']]]]]}}" bindtap="__e">{{item.name}}</view></block></view></view>

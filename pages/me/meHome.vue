@@ -37,7 +37,14 @@
 	.mehome{
 		background: #F1F1F1;;
 	}
+	/* #ifdef MP-WEIXIN */
+		.myad-wrap{
+			margin-top: -80rpx;
+		}
+	/* #endif */
+	/* #ifdef H5 */
 	.myhome-order{
 		margin-top: -80rpx;
 	}
+	/* #endif */
 </style>

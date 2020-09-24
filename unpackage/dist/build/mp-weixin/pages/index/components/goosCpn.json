@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "popup-cpn": "/pages/index/components/popupCpn"
+  }
+}

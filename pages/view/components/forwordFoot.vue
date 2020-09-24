@@ -57,6 +57,7 @@
 		border-radius: 20rpx;
 		color: #6E6E6E;
 		margin-bottom: 28rpx;
+		background: #fff;
 	}
 	.forword-foot-btn{
 		display: flex;

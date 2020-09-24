@@ -185,6 +185,15 @@
 			"enablePullDownRefresh": true,
 			"backgroundColor":"#F1F1F1"
 		}
+	}, {
+		"path":"pages/me/pages/myTeacher",
+		"style":{
+			"navigationBarBackgroundColor": "#fff",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的导师",
+			"enablePullDownRefresh": true,
+			"backgroundColor":"#F1F1F1"
+		}
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",

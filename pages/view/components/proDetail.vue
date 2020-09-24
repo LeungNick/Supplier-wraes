@@ -1,6 +1,6 @@
 <template>
 	<view class="prodetail-wrap">
-		<img v-for = "item of imgList" :src= 'item'/>
+		<image v-for = "item of imgList" :src= 'item' style="width: 100%;" mode="widthFix"></image>
 	</view>
 </template>
 

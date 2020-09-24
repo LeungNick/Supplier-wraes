@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的地址",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

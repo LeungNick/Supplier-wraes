@@ -136,6 +136,9 @@
 	padding: 0 20rpx;
 	box-sizing: border-box;
 }
+.carlist-order-bottom.data-v-17aef04d{
+	bottom: 0rpx;
+}
 .submit-btn.data-v-17aef04d{
 	background: #FF465C;
 	border-radius: 40rpx;

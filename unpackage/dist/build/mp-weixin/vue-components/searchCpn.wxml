@@ -1,0 +1,1 @@
+<view class="search-wrap data-v-d78dad54"><view data-event-opts="{{[['tap',[['toSearchpage',['$event']]]]]}}" class="search-cont data-v-d78dad54" bindtap="__e"><text class="iconfont icon-search_list data-v-d78dad54"></text><input class="search data-v-d78dad54" type="text" value="请输入搜索商品的关键字"/></view></view>

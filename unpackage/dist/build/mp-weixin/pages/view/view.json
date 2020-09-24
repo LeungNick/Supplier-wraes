@@ -1,0 +1,14 @@
+{
+  "navigationBarBackgroundColor": "#ff465c",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "view-swiper": "/pages/view/components/viewSwiper",
+    "view-text": "/pages/view/components/viewText",
+    "view-repeat": "/pages/view/components/viewRepeat",
+    "view-shop": "/pages/view/components/viewShop",
+    "view-detail": "/pages/view/components/viewDetail",
+    "view-footlist": "/pages/view/components/viewFootlist"
+  }
+}

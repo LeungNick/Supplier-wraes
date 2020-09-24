@@ -2,7 +2,7 @@
 	<view class="my-shop-top-wrap">
 		<view class="my-shop-top-title">
 			<view class="my-shop-top-name">
-				<img src="../../../static/image/ts.jpg">
+				<image src="../../../static/image/ts.jpg" mode="widthFix" style="width:50%;border-radius: 50%;"></image>
 				<view>
 					<view>我的旗舰店</view>
 					<view>微信号：1213131</view>
@@ -49,14 +49,10 @@
 		padding: 20rpx 40rpx;
 	}
 	.my-shop-top-name{
+		width: 40%;
 		display: flex;
 		justify-content: flex-start;
 		align-items: center;
-	}
-	.my-shop-top-name img{
-		width: 20%;
-		border-radius: 50%;
-		margin-right: 10rpx;
 	}
 	.my-shop-top-name view view:nth-child(1){
 		font-size: 30rpx;

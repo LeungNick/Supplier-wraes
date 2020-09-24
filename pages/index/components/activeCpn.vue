@@ -8,7 +8,7 @@
 			</view>
 		</view>
 		<view class="wrap-content" @click="gotoFreegoods">
-			<img :src="activeimg"/>
+			<image :src="activeimg" mode="widthFix" style="width: 100%;"></image>
 		</view>
 	</view>
 </template>
@@ -62,9 +62,5 @@
 		height:0;
 		padding-bottom:16.6%;
 		width: 100%;
-	}
-	.wrap-content img {
-		width: 100%;
-		background-size: 100% 100%;
 	}
 </style>

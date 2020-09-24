@@ -1,0 +1,1 @@
+<view class="type-wrap"><view class="type-search"><search-cpn vue-id="861cbf00-1" bind:__l="__l"></search-cpn></view><select-cpn vue-id="861cbf00-2" bind:__l="__l"></select-cpn><goods-cpn vue-id="861cbf00-3" bind:__l="__l"></goods-cpn></view>
